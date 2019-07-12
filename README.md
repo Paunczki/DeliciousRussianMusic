@@ -15,7 +15,7 @@ in which I hope to learn the Russian language when trying to understand the lyri
 ## Where this idea comes from
 The idea for this repository/project came from many GitHub users who create repositories/projects about their daily routines
 I saw some working out, reading books, etc.
-Since I enjoy these songs and want to learn a new language from my native Polish and English
+Since I enjoy these songs and want to learn a new language from my native Polish and English (and semi-fluent Spanish)
 I decided to create this project so that I can learn
 Especially since Russian is an entirely new alphabet
 I also hope that someone may stumble upon this project and begin to like these songs and try to learn the language
