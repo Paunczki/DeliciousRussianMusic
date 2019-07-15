@@ -53,3 +53,5 @@ If a hit, I will repeat the process for more languages
 - https://www.translate.google.com/
 - https://on-hit.ru/texts/
 - https://text-lyrics.ru/
+
+Will create a more formal writeup for sources later
