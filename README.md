@@ -45,3 +45,11 @@ A github pages page for visual effect
 
 
 If a hit, I will repeat the process for more languages
+
+
+## Sources for lyrics, Russian/English
+- https://lyricstranslate.com/
+- https://genius.com/
+- https://www.translate.google.com/
+- https://on-hit.ru/texts/
+- https://text-lyrics.ru/
