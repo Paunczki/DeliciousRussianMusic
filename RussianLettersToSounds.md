@@ -36,3 +36,6 @@
 Ээ - **e** as in m**e**t
 Юю - **yu sound** as in **u**se
 Яя - **ya** as in **ya**rd
+
+# Basic Words and Pronunciations 
+
